@@ -1512,4 +1512,5 @@ class ENA_App:
 if __name__ == "__main__":
     root = tk.Tk()
     app = ENA_App(root)
+
     root.mainloop()
