@@ -1,4 +1,4 @@
-# ENA Merge Files v4.8.0
+# ENA Merge Files v4.8.1
 
 本工具專為 E5061B ENA Series Network Analyzer 數據處理而設計，目標是 **「用最少的時間，達成最大的效益」**，快速完成資料合併、圖表產出與峰谷點分析。
 
